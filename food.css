@@ -1,0 +1,191 @@
+.b1{
+    height: 80px;
+    margin: 0px;
+    
+   
+
+}
+
+.head{
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+
+.h2 span{
+    padding: 20px;
+    font-size: 25px;
+    color: gray;
+    
+
+}
+.h3 input{
+    font-size: 22px;
+    width: 400px;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+
+.h3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.h3 i{
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+
+.img1{
+    margin: 80px;
+    height: 700px;    
+    background-image: url(./images/back1.jpg);
+    opacity: 0.9;
+    background-size: 100%;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+
+
+.text{
+    color: red;
+    font-size: 100px;
+    font-family: 'Vina Sans', sans-serif;
+}
+.t1{
+    font-size: 35px;
+    margin-left: 100px;
+    color: red;
+}
+.r1{
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+
+}
+
+.row{
+   height: 300px;
+   font-size: 25px;
+}
+
+.row img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.row p{
+    text-align: center;
+}
+.c2{
+    margin-left: 100px;
+    font-size: 35px;
+    margin-top: 50px;
+    color: red;
+}
+
+
+
+.c1{
+    height: 100px;
+    margin: 100px;
+    margin-top: 0px;
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+
+.c3{
+    display: flex;
+    margin-top: 0px;
+    margin: 100px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.c4{
+    height: 100px;
+    margin: 100px;
+    margin-top: 0px;
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+
+.c5{
+    display: flex;
+    height: 100px;
+    margin: 100px;
+    justify-content: space-around;
+    
+}
+
+
+.c3,.c5 p{
+    font-size: 25px;
+}
+.g{
+    height: 200px;
+    width: 380px;
+    background-color: blue;
+    border: black 2px solid;
+    border-radius: 20px;
+}
+
+.g1{
+    background-image: url(./images/rest1);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.g2{
+    background-image: url(./images/rest2);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.g3{
+    background-image: url(./images/rest3);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.g4{
+    background-image: url(./images/rest4);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.g5{
+    background-image: url(./images/rest5);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.g6{
+    background-image: url(./images/rest6);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.g7{
+    background-image: url(./images/rest7);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.g8{
+    background-image: url(./images/rest8);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+
